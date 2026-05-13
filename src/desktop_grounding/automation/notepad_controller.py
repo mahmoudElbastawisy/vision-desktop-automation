@@ -51,17 +51,17 @@ def save_notepad_file(file_path: Path) -> None:
     target_path = file_path.expanduser().resolve()
     logger.info("Saving Notepad file to: %s", target_path)
 
+    # Remove existing file first to avoid overwrite confirmation prompts.
+    if target_path.exists():
+        logger.info("Existing file found, deleting before save: %s", target_path)
+        target_path.unlink()
+
     press_hotkey("ctrl", "s")
     sleep(config.SAVE_DIALOG_DELAY_SECONDS)
 
     type_text(str(target_path))
     press_key("enter")
     sleep(config.SAVE_DIALOG_DELAY_SECONDS)
-
-    # If an overwrite confirmation appears, pressing Enter usually confirms it.
-    # This is intentionally delayed and limited to one extra confirmation attempt.
-    press_key("enter")
-    sleep(config.GUI_ACTION_DELAY_SECONDS)
 
 
 def close_notepad() -> None:

@@ -23,7 +23,7 @@ RAW_SCREENSHOTS_FOLDER_NAME = "raw"
 ANNOTATED_SCREENSHOTS_FOLDER_NAME = "annotated"
 
 # Local project directories
-PROJECT_ROOT = Path(__file__).resolve().parents[3]
+PROJECT_ROOT = Path(__file__).resolve().parents[2]
 ASSETS_DIR = PROJECT_ROOT / "assets"
 TEMPLATES_DIR = ASSETS_DIR / "templates"
 
