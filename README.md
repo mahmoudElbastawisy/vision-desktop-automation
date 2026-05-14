@@ -18,12 +18,17 @@ The system dynamically discovers the Notepad desktop icon, launches the applicat
 
 ### OCR Grounding
 
-<img width="1920" height="1080" alt="notepad_grounding_20260513_193354_890443" src="https://github.com/user-attachments/assets/80d26a14-1174-456e-b7ab-69949fbeb818" />
+<img width="1920" height="1080" alt="notepad_grounding_20260514_052534_900193" src="https://github.com/user-attachments/assets/b74b7165-be8d-4cc9-86c2-f136d5ca3619" />
 
+---
 
 ### Template Matching
 
 <img width="1920" height="1080" alt="notepad_grounding_20260514_044738_175391" src="https://github.com/user-attachments/assets/afec9b0f-3978-442a-8ee9-5ece22681f08" />
+
+---
+<img width="1920" height="1080" alt="notepad_grounding_20260514_052220_933161" src="https://github.com/user-attachments/assets/8013769d-0144-4342-a9c9-6471df54e36e" />
+
 
 ---
 
