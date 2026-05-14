@@ -279,7 +279,6 @@ uv sync
 ## Run The Workflow
 
 ```bash
-$env:PYTHONPATH="src"
 uv run python -m desktop_grounding.main
 ```
 
