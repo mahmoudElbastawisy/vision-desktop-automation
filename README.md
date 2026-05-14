@@ -27,13 +27,6 @@ The system dynamically discovers the Notepad desktop icon, launches the applicat
 
 <img width="1920" height="1080" alt="notepad_grounding_20260514_044738_175391" src="https://github.com/user-attachments/assets/afec9b0f-3978-442a-8ee9-5ece22681f08" />
 
-
-### Gemini Vision Grounding
-
-```text
-[ INSERT GEMINI ANNOTATED SCREENSHOT HERE ]
-```
-
 ---
 
 # Key Features
