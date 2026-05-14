@@ -1,5 +1,3 @@
-# vision-desktop-automation
-Vision-based desktop automation system for dynamic Notepad icon grounding on Windows.
 # Vision-Based Desktop Automation with Dynamic Icon Grounding
 
 A resilient desktop automation system that visually locates applications using:
