@@ -29,6 +29,15 @@ The system dynamically discovers the Notepad desktop icon, launches the applicat
 ---
 <img width="1920" height="1080" alt="notepad_grounding_20260514_052220_933161" src="https://github.com/user-attachments/assets/8013769d-0144-4342-a9c9-6471df54e36e" />
 
+---
+
+### Two-Stage Gemini Visual Grounding
+
+<img width="1920" height="1080" alt="notepad_grounding_20260517_214511_074714" src="https://github.com/user-attachments/assets/251f4584-7dc4-4e68-b565-6b044544ac93" />
+
+---
+<img width="1920" height="1080" alt="notepad_grounding_20260517_214422_150152" src="https://github.com/user-attachments/assets/9d74f25c-c29b-4a54-a803-d30d01e70652" />
+
 
 ---
 
